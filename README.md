@@ -28,7 +28,7 @@
      <div class="col">
         <ul class="price-box best">
             <li class="header header-green">Standard</li>
-            <li class="emph"><strong>£ 15.99</strong> / Month</li>
+            <li class="emph"><strong>£ 18.99</strong> / Month</li>
             <li><strong>75GB</strong> Disk Space</li>
             <li><strong>50GB</strong> Data Transfer</li>
             <li><strong>10</strong> Domains</li>
