@@ -15,7 +15,7 @@
     <div class="col">
         <ul class="price-box">
             <li class="header">Simple</li>
-            <li class="emph"><strong> £ 5.99</strong> / Month</li>
+            <li class="emph"><strong> £ 6.99</strong> / Month</li>
             <li><strong>20GB</strong> Disk Space</li>
             <li><strong>10GB</strong> Data Transfer</li>
             <li><strong>2</strong> Domains</li>
