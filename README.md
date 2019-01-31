@@ -41,7 +41,7 @@
     <div class="col">
         <ul class="price-box">
             <li class="header">Premium</li>
-            <li class="emph"><strong>£ 25.99</strong> / Month</li>
+            <li class="emph"><strong>£ 27.99</strong> / Month</li>
             <li><strong>120GB</strong> Disk Space</li>
             <li><strong>100GB</strong> Data Transfer</li>
             <li><strong>unlimited</strong> Domains</li>
