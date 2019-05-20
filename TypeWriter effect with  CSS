@@ -22,7 +22,7 @@
 /* The typewriter cursor effect */
 @keyframes blinking-cursor {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: red; }
 }
 </style>
 </head>
