@@ -33,7 +33,7 @@
 
 .text {
   background-color: #4CAF50;
-  color: white;
+  color: #f1f1f1;
   font-size: 16px;
   padding: 16px 32px;
 }
