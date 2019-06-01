@@ -16,7 +16,7 @@
   <p>Note: Try to add a new div with class="col" inside the row class - this will create four equal-width columns.</p>
 <div class="row">
     <div class="col" style="background-color:lavender;">.col</div>
-    <div class="col" style="background-color:lightgreen;">.col</div>
+    <div class="col" style="background-color:lightblue;">.col</div>
     <div class="col" style="background-color:lavender;">.col</div>
   </div>
 </div>
