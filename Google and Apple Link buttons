@@ -28,7 +28,7 @@ body {
 }
 
 .container p {
- margin: 15px;
+ margin: 13px;
 }
 
 .google, .apple {
