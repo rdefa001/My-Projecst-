@@ -30,7 +30,7 @@
 }
 
 .text {
-  color: #ff1f;
+  color: #fff;
   font-size: 20px;
    position: absolute;
   top: 50%;
