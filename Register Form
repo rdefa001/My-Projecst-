@@ -4,7 +4,7 @@
 <style>
 body {
  font-family: Arial, Helvetica, sans-serif;
- background-color: blue;
+ background-color: black;
 
 * {
  box-sizing: border-box;
