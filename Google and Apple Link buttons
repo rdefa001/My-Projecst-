@@ -17,7 +17,7 @@ html {
 }
 
 body {
- background-color: #20B2AA;
+ background-color: white;
 }
 
 .container {
