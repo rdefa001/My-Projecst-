@@ -28,7 +28,7 @@
 }
 
 .container:hover .middle {
-  opacity: 0;
+  opacity: 1;
 }
 
 .text {
