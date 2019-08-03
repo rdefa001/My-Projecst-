@@ -37,7 +37,7 @@
         <span> Yes or No:</span>
         <input type="radio" name="answer" id="yes" value="yes" required>
         <value for="yes">Yes</value>
-        <input type="radio" name="answer" id="no" value="no">
+        <input type="radio" name="answer" id="no" value="no" required>
         <value for="no">No</value>
         <br>
         <lable for="speed">Relative speed (ends in -er):</lable>
