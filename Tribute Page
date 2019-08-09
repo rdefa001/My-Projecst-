@@ -6,7 +6,7 @@ body {
   background-color: #00ffd2;
   font-family: Arial, heveltica, sans-serif;
   margin: 10px;
-  color: #fff
+  color: #fff;
 }
 
 #main {
