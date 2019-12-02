@@ -9,7 +9,7 @@
 }
 
 .image {
-  dispay: ;
+  dispay: block;
   width: 100%;
 }
 
